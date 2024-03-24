@@ -1,4 +1,4 @@
-# PHP Login System with OTP Verification
+# PHP Authentication System with OTP Verification
 
 This project is a simple web application developed using PHP, HTML, and CSS, implementing a login and registration system with the additional feature of OTP (One-Time Password) verification during the login process. Users can register for an account, log in with their credentials along with OTP sent to their email, and also update their information. Form validation is implemented to ensure data integrity and security.
 
@@ -23,5 +23,5 @@ This project is a simple web application developed using PHP, HTML, and CSS, imp
 1. **Clone the Repository**:
 
 ```bash
-git clone https://github.com/PrabhuKandel/PHP_Login_System.git
+[git clone https://github.com/PrabhuKandel/PHP_Authentication_System.git]
 ```
