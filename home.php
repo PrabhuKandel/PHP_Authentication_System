@@ -20,7 +20,7 @@ if(!isset($_SESSION['valid']))
   <body>
     <div class="nav">
       <div class="logo">
-        <p><a href="home.php">Logo</a></p>
+        <p><a href="home.php">Home</a></p>
       </div>
 
       <div class="right-links">
@@ -47,18 +47,13 @@ if(!isset($_SESSION['valid']))
       <div class="main-box top">
         <div class="top">
           <div class="box">
-            <p>Hello <b><?php echo $res_Uname ?></b>, Welcome</p>
+            <p>Hello <b><?php echo $res_Uname ?></b>, Welcome to home page</p>
           </div>
-          <div class="box">
-            <p>Your email is <b><?php echo $res_Email ?></b>.</p>
-          </div>
+          
         </div>
-        <div class="bottom">
-          <div class="box">
-            <p>And you are <b><?php echo $res_Age ?> years old</b>.</p>
-          </div>
         </div>
-      </div>
+      
     </main>
+</div>
   </body>
 </html>

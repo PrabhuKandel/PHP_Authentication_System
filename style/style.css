@@ -111,6 +111,25 @@ main {
   width: 100%;
   margin-top: 20px;
 }
+
+/* css for eye button */
+.field .password-container input[type="password"] {
+  padding-right: 30px; /* Adjust the value as needed */
+}
+.field .password-container {
+  position: relative;
+}
+.field .password-container i {
+  display: inline-block;
+  position: absolute;
+  right: 6px;
+  top: 10px;
+}
+.field .password-container i:hover {
+  cursor: pointer;
+  color: blue;
+}
+
 @media only screen and (max-width: 840px) {
   .main-box .top {
     display: flex;
