@@ -23,5 +23,5 @@ This project is a simple web application developed using PHP, HTML, and CSS, imp
 1. **Clone the Repository**:
 
 ```bash
-[git clone https://github.com/PrabhuKandel/PHP_Authentication_System.git]
+git clone https://github.com/PrabhuKandel/PHP_Authentication_System.git
 ```
